@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 	font-family: Times New Roman;
   margin: 0;
@@ -5,7 +6,11 @@ body {
 .header {
   padding: 80px; /* some padding */
   text-align: center; /* center the text */
+<<<<<<< Updated upstream
  
+=======
+ 
+>>>>>>> Stashed changes
   color: Black; /* white text color */
 }
 
